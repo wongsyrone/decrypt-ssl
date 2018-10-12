@@ -1,6 +1,6 @@
 :: Using the (Pre)-Master-Secret
 
-set KEYLOGFILE=D:\keylog.log
+set KEYLOGFILE=D:\sslkey.log
 
 set WIRESHARKBIN="D:\Wireshark\Wireshark.exe"
 set FIREFOXBIN=""
